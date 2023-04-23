@@ -1,4 +1,4 @@
-package structure;
+package packagesandclasses;
 
 public class Account {
     private String owner;
